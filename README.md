@@ -4,7 +4,9 @@ Within this new analysis, we merged the data from both the city and ride dataset
 The analysis was then focused on total fares and isolated to a date range of January 1st, 2019 to April 28th, 2019. Within this dataframe, the sum of each week's fares was calculated per city type, and a multiple-line chart visualization was created to demonstrate the findings.
 
 ## Results
-[Insert image of chart here]
+
+![Screen Shot 2022-11-22 at 16 43 33 PM](https://user-images.githubusercontent.com/114192448/203450958-40563be2-e191-406f-9a01-a6324e38ba5e.png)
+
 ### Urban Cities Results
 Urban cities had the most PyBer usage of all three city types, by far. In urban cities 1,625 rides were given, there are 2,405 drivers on the road, and a total of $39,854.38 in fares. Urban city PyBer rides are, on average, cheaper than the average ride in a suburban or rural area, at $24.53. Also, PyBer drivers in rural cities earn less money per ride, an average of $16.57 per ride. 
 
@@ -16,7 +18,8 @@ Rural cities saw the lowest PyBer usage, but also had the highest fares per ride
 
 ### Total Fares by City Type - Week by Week:
 As shown in the line plot below, there is a significant disparity between fares earned in rural cities versus urban cities. This plot shows that suburban cities are even at the risk of continuing to widen their disparity from the urban cities as well. 
-[Insert Plot Chart Here]
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/114192448/203450922-7e02fc3f-2510-4471-81e0-198483f4be8f.png)
 
 ## Summary
 Upon review of these results, there are three recommendations for how to address disparities among the city types:
